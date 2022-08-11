@@ -24,3 +24,8 @@ DerivedData/
 
 ## Gcc Patch
 /*.gcno
+
+## Distribution files
+.env
+output/
+tmp_derived_data/
